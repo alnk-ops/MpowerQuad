@@ -103,7 +103,7 @@ body {
 
 /* --- Home Page Section --- */
 #home {
-background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('./images/e4logo.jpeg') no-repeat center center/cover;
+background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('e4logo.jpeg') no-repeat center center/cover;
 color: var(--white);
 height: 100vh;
 display: flex;
